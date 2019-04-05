@@ -1,0 +1,10 @@
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\bin\Debug\ex42.cs.exe.config
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\bin\Debug\ex42.cs.exe
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\bin\Debug\ex42.cs.pdb
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.Form1.resources
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.Properties.Resources.resources
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.exe
+C:\Users\Luciano\source\repos\ex42.cs\ex42.cs\obj\Debug\ex42.cs.pdb

@@ -1,0 +1,10 @@
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\bin\Debug\program38.cs.exe.config
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\bin\Debug\program38.cs.exe
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\bin\Debug\program38.cs.pdb
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.Form1.resources
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.Properties.Resources.resources
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.exe
+C:\Users\Luciano\source\repos\program38.cs\program38.cs\obj\Debug\program38.cs.pdb

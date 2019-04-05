@@ -1,0 +1,10 @@
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\bin\Debug\ex39.cs.exe.config
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\bin\Debug\ex39.cs.exe
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\bin\Debug\ex39.cs.pdb
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.Form1.resources
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.Properties.Resources.resources
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.exe
+C:\Users\Luciano\source\repos\ex39.cs\ex39.cs\obj\Debug\ex39.cs.pdb

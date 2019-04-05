@@ -1,0 +1,10 @@
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\bin\Debug\salario_bruno.exe.config
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\bin\Debug\salario_bruno.exe
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\bin\Debug\salario_bruno.pdb
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.csprojAssemblyReference.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.Properties.Resources.resources
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.csproj.GenerateResource.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.csproj.CoreCompileInputs.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.exe
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.pdb
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\salario_bruno\salario_bruno\obj\Debug\salario_bruno.frmSalario.resources

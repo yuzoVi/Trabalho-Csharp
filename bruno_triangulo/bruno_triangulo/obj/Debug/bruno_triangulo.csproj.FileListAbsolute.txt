@@ -1,0 +1,10 @@
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\bin\Debug\bruno_triangulo.exe.config
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\bin\Debug\bruno_triangulo.exe
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\bin\Debug\bruno_triangulo.pdb
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.csprojAssemblyReference.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.Form1.resources
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.Properties.Resources.resources
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.csproj.GenerateResource.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.exe
+C:\Users\VICTORYUZONISHIYAMAF\source\repos\bruno_triangulo\bruno_triangulo\obj\Debug\bruno_triangulo.pdb
